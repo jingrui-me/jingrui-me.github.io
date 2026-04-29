@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), with research interests in **Deep Learning** and **Computer Vision**.
+I am an undergraduate student at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), with research interests in **Deep Learning** and **Computer Vision**.
 
 ## Research Interests
 
@@ -16,7 +16,7 @@ I am a student at [Huazhong University of Science and Technology (HUST)](https:/
 
 ## Education
 
-- **Huazhong University of Science and Technology (HUST)**, Wuhan, China
+- **B.S.**, Huazhong University of Science and Technology (HUST), Wuhan, China
 
 ## Contact
 
